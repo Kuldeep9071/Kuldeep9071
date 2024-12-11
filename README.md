@@ -1,4 +1,4 @@
-# 🙂 Hello Coders! I'm Kuldeep 
+# Hello Coders! I'm Kuldeep 🙂
 
 🎓 **2nd Year BTech Student** | **Mathematics and Computing**  
 🏫 **Indian Institute of Science, Bengaluru**  
@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🖥️ I like solving **Programming and Maths** Problems.
+- 🖥️ I like solving **Programming and Mathematics** Problems.
 - 📚 Proficient in **C**, **C++**, **Python**, and **JavaScript**.
 - Completed **Data Structures and Algorithms**
 - 🎨 Skilled in **HTML**, **CSS**, and **LaTeX**.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Skills and Tools
+## Skills and Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Interests & Hobbies
+## Interests & Hobbies
 - 🧠 **Algorithmic Problem Solving**
 - ♟️ **Playing Chess**
 

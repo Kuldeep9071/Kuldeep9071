@@ -36,6 +36,9 @@
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Kuldeep9071)
 [![Instagram](https://img.shields.io/badge/Instagram-EE2C75?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_1709kuldeep/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=X&logoColor=white)](https://twitter.com/Kuldeep_Era)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235A3930.svg?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/kuldeep1709)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Kuldeep1709)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kuldeep1709)
 
 ---
 

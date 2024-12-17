@@ -27,7 +27,8 @@
 
 ### Languages Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep9071&count_private=true&theme=dark&layout=compact)](https://github.com/Kuldeep9071)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep9071&count_private=true&theme=dark&layout=compact&card_width=350)](https://github.com/Kuldeep9071)
+
 
 ---
 

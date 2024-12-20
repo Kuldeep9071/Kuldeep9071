@@ -13,7 +13,7 @@
 
 ---
 
-## Skills and Tool
+## Skills and Tools
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
@@ -25,10 +25,26 @@
 
 ---
 
+## Stats and Activity
+
+<div align="center">
+<table>
+<tr>
+<td>
+
 ### Languages Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep9071&count_private=true&theme=dark&layout=compact&card_width=400)](https://github.com/Kuldeep9071)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep9071&count_private=true&theme=dark&layout=compact&card_width=350)](https://github.com/Kuldeep9071)
+</td>
+<td>
 
+### Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kuldeep9071&theme=react-dark&hide_border=true&area=true&width=400)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -42,4 +58,3 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kuldeep1709)
 
 ---
-

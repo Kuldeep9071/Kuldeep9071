@@ -1,4 +1,3 @@
-###  GitHub Stats
 <table>
   <tr>
     <td>
